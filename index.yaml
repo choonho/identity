@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  identity:
+  - apiVersion: v2
+    appVersion: 1.6.4
+    created: "2021-02-27T13:36:43.542748516Z"
+    description: SpaceONE identity Helm chart for Kubernetes
+    digest: 92ec8e8947fe7c4cb83353a5b6749de869939247f2f90aba12c00c72be8f7e41
+    name: identity
+    urls:
+    - https://github.com/choonho/identity/releases/download/identity-1.6.4/identity-1.6.4.tgz
+    version: 1.6.4
+generated: "2021-02-27T13:36:43.257855476Z"
